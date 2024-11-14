@@ -55,8 +55,7 @@ Go to Connectivity > Asterisk SIP Settings > PJSIP Settings.
 Set NAT Traversal Support to Yes.
 
 3. Firewall and Router Configuration
-4. 
-On your firewall/router:
+4. On your firewall/router:
 
 
 Forward SIP (port 5060) and RTP (usually ports 10000–20000) to your FreePBX server.
