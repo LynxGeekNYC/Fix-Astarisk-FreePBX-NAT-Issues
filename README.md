@@ -35,8 +35,7 @@ localnet=192.168.1.0/24  ; Replace with your internal network
 Make sure to replace <your_public_ip> with your actual public IP or dynamic DNS name and localnet with your internal network range.
 
 2. FreePBX NAT Settings
-3. 
-In FreePBX, go to Settings > Asterisk SIP Settings:
+3. In FreePBX, go to Settings > Asterisk SIP Settings:
 
 
 Under General SIP Settings:
